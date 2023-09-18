@@ -183,6 +183,7 @@
   // Portfolio details carousel
   $(".portfolio-details-carousel").owlCarousel({
     autoplay: true,
+    autoplayHoverPause: true,
     dots: true,
     loop: true,
     items: 1
